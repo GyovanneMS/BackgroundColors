@@ -1,0 +1,10 @@
+:root{
+    --bg-roxo:purple;
+    --bg-amarelo: yellow;
+    --bg-marrom: brown;
+    --bg-cinza: grey;
+}
+
+body{
+    background-color: white;
+}
